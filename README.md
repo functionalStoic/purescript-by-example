@@ -1,4 +1,4 @@
-# Tulsa Lambda Lunc Book Club
+# Tulsa Lambda Lunch Book Club
 
 ## PureScript By Example
 
